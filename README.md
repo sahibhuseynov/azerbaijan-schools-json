@@ -1,7 +1,7 @@
 # 📚 Azerbaijan Schools JSON 🇦🇿
 
 Structured data of general education schools across different regions of Azerbaijan.  
-Collected using Python (Selenium & BeautifulSoup) from official regional education websites.
+
 
 ## 🧾 Data Format
 
